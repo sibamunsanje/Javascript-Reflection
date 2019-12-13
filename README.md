@@ -21,7 +21,7 @@ Overall, my first dip into Javascript was not as intimidating as I'd feared, in 
 
 # My process for Learning Javascript
 *What went well?
-  *Noting down the differences between JS and Ruby helped re-inforce the key differences between the two languages. I noticed that JS has a tendency towards syntactic sugar. For instance, Javascript demands a semi-colon at the end of each 'sentence', where Ruby does not. An interesting example is that in Ruby, we dont have to declare the variable, yet JS demands we do. (Noted in exhibit A). 
+  *Noting down the differences between JS and Ruby helped re-inforce the key differences between the two languages. I noticed that JS has a tendency towards syntactic sugar. For instance, Javascript demands a semi-colon at the end of each 'sentence', where Ruby does not. An interesting example is that in Ruby, we dont have to declare the variable, yet JS demands we do. 
   
   *Moving on to a more complex programme, i.e. [thermostat] (https://github.com/sibamunsanje/Thermostat), where I had to get used to the Jasmine TDD framework. 
   
