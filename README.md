@@ -23,7 +23,7 @@ Overall, my first dip into Javascript was not as intimidating as I'd feared, in 
 *What went well?
   *Noting down the differences between JS and Ruby helped re-inforce the key differences between the two languages. I noticed that JS has a tendency towards syntactic sugar. For instance, Javascript demands a semi-colon at the end of each 'sentence', where Ruby does not. An interesting example is that in Ruby, we dont have to declare the variable, yet JS demands we do. 
   
-  *Moving on to a more complex programme, i.e. [thermostat] (https://github.com/sibamunsanje/Thermostat), where I had to get used to the Jasmine TDD framework. 
+  *Moving on to a more complex programme, i.e. [JS takeawaychallenge] (https://github.com/sibamunsanje/JStakeaway-challenge), where I had to get used to the Jasmine TDD framework. 
   
 *What didn't go so well?
   *Getting used to the error messages in JS was challenging, I learnt that JS is very case/spelling sensitive. It would throw
@@ -31,7 +31,7 @@ Overall, my first dip into Javascript was not as intimidating as I'd feared, in 
   
   # My Javascript Project
   
-  *[Thermostat] (https://github.com/sibamunsanje/Thermostat) used Jasmine TDD in Javascript, used constructors, added new properties to objects (still unfinished). 
+  *[JStakewaychallenge] (https://github.com/sibamunsanje/JStakeaway-challenge) used Jasmine TDD in Javascript, used constructors, added new properties to objects.
   
   
   
